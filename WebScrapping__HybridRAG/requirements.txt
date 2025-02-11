@@ -1,0 +1,12 @@
+crawl4ai
+
+langchain
+langchain-ollama
+libmagic
+"unstructured[md]" 
+pinecone-client 
+pinecone-text 
+pinecone-
+langchain-community
+nltk
+python-dotenv
