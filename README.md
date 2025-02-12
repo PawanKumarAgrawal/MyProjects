@@ -1,31 +1,30 @@
-MyProjects
+Hi, I’m @Pawan-Kumar-Agrawal
 
-This repository contains multiple machine learning (ML) and deep learning (DL) projects focused on various domains, including fraud detection, energy forecasting, and web scraping.
-Projects
+🚀 GenAI Engineer & Sr. Data Scientist | Expertise in LLMs, RAG, NLP, and AI Automation
+💡 Skilled in LangChain, Transformers, Hugging Face, Ollama, Multi-Agent Systems, Python (ML/DL)
+🤖 Built RAG systems, AI agents, log anomaly detection models, and AI-driven automation frameworks
+📈 Strong background in Time Series Forecasting, Predictive Analytics, and Data Science
+📊 Proficient in SQL, Python, Pandas, NumPy, Power BI, and Data Visualization
+🎓 PhD in Mechanical Engineering + MBA (HRM) | Certified in Python, SQL, and Data Science
 
-    DL for ANN Forecast (PyTorch GPU Optimized)
-        Implements an artificial neural network (ANN) for time series forecasting using PyTorch.
+📩 Connect with Me
+📧 Email: agpawan13@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/pawan-kumar-agrawal-82b938229
+🌐 Portfolio: https://pawankumaragrawal.github.io/GenAI-DataScience-DataAnalytic--Portfolio-Website/
 
-    ML for Car Insurance Fraud Claim
-        Predicts fraudulent insurance claims using a robust ML model.
+🔥 Key Highlights
+•	1.5+ years in GenAI: Designed RAG systems, AI automation frameworks, and NLP solutions reducing manual effort by 60%.
+•	12+ years in Energy Systems: Expertise in predictive maintenance, hydropower operations, and data-driven decision-making.
+•	Multi-Agent AI Systems: Architected scalable workflows for real-time automation using transformer-based LLMs (Hugging Face, LangChain).
+•	Secure AI Deployment: Championed private LLM deployments for embedding generation, ensuring compliance with global data privacy standards.
+•	Leadership: Led cross-functional teams to define AI strategy, focusing on ethical governance and scalable innovation.
 
-    ML for Financial Fraud Transaction Detection
-        Analyzes financial transactions to detect fraudulent activities.
+🛠️ Technical Toolbox
+AI/ML Frameworks: LangChain, Hugging Face, Ollama, Transformers, TensorFlow, PyTorch
+Languages: Python, SQL
+Data Tools: Pandas, NumPy, Scikit-learn, Power BI
+Domain Expertise: Energy Systems, Time Series Analysis, Anomaly Detection
 
-    ML Optuna for Energy Consumption Forecasting
-        Implements a complete ML pipeline for forecasting energy consumption using Optuna for hyperparameter tuning.
-
-    Web Scraping - Hybrid RAG
-        Demonstrates a hybrid retrieval-augmented generation (RAG) approach with web scraping.
-
-Getting Started
-
-    Clone the repository:
-
-    git clone https://github.com/yourusername/MyProjects.git
-
-    Navigate to a project folder and follow its specific README instructions for setup and execution.
-
-License
-
-This repository is for learning and research purposes.
+📝 Certifications
+General Data Science & SQL: https://www.testdome.com/certificates/6356e54229c440f3a8bdf3fc1887686f
+SQL (Basic): https://www.hackerrank.com/certificates/iframe/c99cf664ad70
