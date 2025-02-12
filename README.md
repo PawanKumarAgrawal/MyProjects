@@ -9,7 +9,9 @@ Hi, I’m @Pawan-Kumar-Agrawal
 
 📩 Connect with Me
 📧 Email: agpawan13@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/pawan-kumar-agrawal-82b938229
+
 🌐 Portfolio: https://pawankumaragrawal.github.io/GenAI-DataScience-DataAnalytic--Portfolio-Website/
 
 🔥 Key Highlights
@@ -27,4 +29,5 @@ Domain Expertise: Energy Systems, Time Series Analysis, Anomaly Detection
 
 📝 Certifications
 General Data Science & SQL: https://www.testdome.com/certificates/6356e54229c440f3a8bdf3fc1887686f
+
 SQL (Basic): https://www.hackerrank.com/certificates/iframe/c99cf664ad70
